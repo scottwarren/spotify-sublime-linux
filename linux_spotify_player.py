@@ -43,6 +43,7 @@ class SpotifyPlayer():
 
   def _get_state(self):
     # return self._execute_command('tell application "Spotify" to player state')
+    return
 
   def is_playing(self):
     return self._get_state() == "playing"
@@ -56,12 +57,15 @@ class SpotifyPlayer():
   # Current Track information
   def get_artist(self):
     # return self._execute_command('tell application "Spotify" to artist of current track')
+    return
 
   def get_album(self):
     # return self._execute_command('tell application "Spotify" to album of current track')
+    return
 
   def get_song(self):
     # return self._execute_command('tell application "Spotify" to name of current track')
+    return
 
   def get_position(self):
     # numstr = self._execute_command('tell application "Spotify" to player position')
@@ -73,18 +77,26 @@ class SpotifyPlayer():
 
   # Actions
   def play_pause(self):
+    return
 
   def play_track(self, track_url, attempts=0):
+    return
 
   def play(self, attempts=0):
+    return
 
   def pause(self):
+    return
 
   def next(self):
+    return
 
   def previous(self):
+    return
 
   def toggle_shuffle(self):
+    return
 
   def toggle_repeat(self):
+    return
 
