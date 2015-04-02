@@ -5,7 +5,9 @@
 * Status of currently playing music to display in the status bar
 * Control of music (play/pause/skip)
 
-Thanks to the following packages, as I used them for code structure for this plugin:
+**Thanks:**
+===
+To the following packages, as I used them for code structure for this plugin:
 * https://www.github.com/jazzpi/spotify-linux
 * https://www.github.com/smpanaro/sublime-spotify
 
