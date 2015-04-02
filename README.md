@@ -1,6 +1,6 @@
 # spotify-sublime-linux
 
-** Sublime plugin that allows:**
+**Sublime plugin that allows:**
 ===
 * Status of currently playing music to display in the status bar
 * Control of music (play/pause/skip)
